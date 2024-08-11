@@ -15,8 +15,10 @@ A simple weather application that allows users to check the current weather cond
 - CSS
 - JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
+## Cloud Image
 ![Cloud Image](./Images/clear.png)
+
+## Sample Output Images
 ![Screenshot of Weather App](./Screenshots/Atlanta.jpg)
 ![Screenshot of Weather App](./Screenshots/Tokyo.jpg)
 
