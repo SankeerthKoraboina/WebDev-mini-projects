@@ -17,8 +17,8 @@ A simple weather application that allows users to check the current weather cond
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
 ![Cloud Image](./Images/clear.png)
-![Screenshot of Weather App](./ScreenShots/Atlanta.jpg)
-![Screenshot of Weather App](./ScreenShots/Tokyo.jpg)
+![Screenshot of Weather App](./Screenshots/Atlanta.jpg)
+![Screenshot of Weather App](./Screenshots/Tokyo.jpg)
 
 
 ## Setup and Installation
