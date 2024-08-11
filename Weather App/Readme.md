@@ -25,7 +25,22 @@ A simple weather application that allows users to check the current weather cond
 
 Follow these steps to set up and run the project on your local machine:
 
+## Setup and Installation
+
+Follow these steps to set up and run the project on your local machine:
+
+```bash
 1. **Clone the Repository**
-   ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
+
+2. **Obtain an API Key**
+   - Sign up at [OpenWeatherMap](https://openweathermap.org/) and get your free API key.
+
+3. **Add Your API Key**
+   - Replace the placeholder API key in `script.js` with your actual API key.
+   const apiKey = "your_api_key_here";
+
+4. **Run the Project**
+   - Open the `index.html` file in your browser to view the app.
+
