@@ -17,11 +17,11 @@ This is a simple quiz application built with HTML, CSS, and JavaScript. It prese
 - `script.js`: The JavaScript file that contains the logic for the quiz, including handling user input and displaying questions.
 
 ### Quiz Question
-![Quiz Question1](./Screenshots\quiz1.png)
-![Quiz Question2](./Screenshots\quiz2.png)
+![Quiz Question1](./Screenshots/quiz1.png)
+![Quiz Question2](./Screenshots/quiz2.png)
 
 ### Score Screen
-![Score Screen](./Screenshots\quiz3.png)
+![Score Screen](./Screenshots/quiz3.png)
 
 
 ## How to Run
